@@ -1,7 +1,5 @@
 # voterapp_UI
 
-# USSD ADMIN UI
-
 ## Project setup
 
 ```
@@ -32,7 +30,7 @@ npm run test:unit
 
 ### Description
 
-Voterapp UI, developed with vue. API built with .NET. Used vuex for store and intergrated a finger print scanner for validation.. Developed by Idisimagha Dublin-Green (greendublin007@gmail.com)
+Voterapp UI, developed with vue. API built with .NET. Used vuex for store and intergrated a finger print scanner for validation.. Developed by Charles Omiyale (comiyale@outlook.com)
 
 ### Customize configuration
 
